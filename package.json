@@ -1,0 +1,20 @@
+{
+  "name": "routers",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "router3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon router3.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "parse-body": "^1.0.3"
+  }
+}
